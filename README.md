@@ -1,6 +1,3 @@
-
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarh554&label=Profile%20views&color=0e75b6&style=flat" alt="sarh554" /> </p>
 <h1 align="center">Hi 👋, I'm Sarh bint Sulaiman Alkhamees</h1>
 <h3 align="center">Senior information technology student 👩🏻‍💻✨</h3>
