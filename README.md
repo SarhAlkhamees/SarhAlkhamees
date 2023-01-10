@@ -2,7 +2,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Sarh bint Sulaiman Alkhamees</h1>
-<h3 align="center">A conscientious individual developer✨</h3>
+<h3 align="center">Senior information technology student✨</h3>
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarh554&label=Profile%20views&color=0e75b6&style=flat" alt="sarh554" /> </p>
 
