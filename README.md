@@ -1,5 +1,5 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarh554&label=Profile%20views&color=0e75b6&style=flat" alt="sarh554" /> </p>
-<h1 align="center">Hi 👋, I'm Sarh bint Sulaiman Alkhamees</h1>
+<h1 align="center">Hi 👋, I'm Sarah bint Sulaiman Alkhamees</h1>
 <h3 align="center">Senior information technology student 👩🏻‍💻✨</h3>
 <img align="right" alt="Coding" width="270" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
 
